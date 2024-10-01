@@ -87,7 +87,7 @@ phrases_to_replace = {
     "Helooooo world": "ople",
     "Foooooo": "Remeoomb"
     }
-app = Client("my_account101", api_id, api_hash)
+app = Client("my_account101(1)", api_id, api_hash)
 
 
 def get_last_n_messages(client, chat_id, n=4):
